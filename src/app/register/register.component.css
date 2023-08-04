@@ -1,0 +1,45 @@
+.main-div{
+    background-image: linear-gradient(to bottom right, rgb(252, 239, 244),rgb(241, 190, 207) );
+    height: 100%;
+}
+
+.title{
+    text-align: center;
+    color: rgb(67, 67, 134);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+mat-card{
+    height: 80%;
+    width: 25%;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);  
+}
+
+mat-form-field {
+    width: 100%;
+}
+
+button{
+    width: 40%;
+    left: 30%;
+    font-size: 18px;
+     /* font-family: Georgia, 'Times New Roman', Times, serif; */
+}
+
+/* mat-toolbar{
+    border-radius: 2px;
+    font-size: 20px;
+} */
+
+.title-center {
+    margin: 0 auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.register{
+    text-align: center;
+}

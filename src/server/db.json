@@ -1,0 +1,383 @@
+{
+  "men": [
+    {
+      "prodId":1,
+      "prodName":"Men's T-shirt",
+      "prodPrice":400,
+      "prodCategory":"T-shirt",
+      "productImage":"https://m.media-amazon.com/images/I/51TZSGQ63CL._UX679_.jpg"
+    },
+    {
+      "prodId":2,
+      "prodName":"Formal Shirt",
+      "prodPrice":500,
+      "prodCategory":"Formal Shirt",
+      "productImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/b/d/f/3xl-13-lstr-wine-vtexx-original-imagnzbummhkgr7p.jpeg"
+    },
+    {
+      "prodId":3,
+      "prodName":"Formal Shirt",
+      "prodPrice":650,
+      "prodCategory":"Formal Shirt",
+      "productImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/shirt/t/d/l/l-kcsh-fo-1647-light-grey-fubar-original-imagpspwrqn57ftw.jpeg"
+    },
+    {
+      "prodId":4,
+      "prodName":"Men's Watch",
+      "prodPrice":899,
+      "prodCategory":"Watch",
+      "productImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/watch/6/w/o/-original-imagzkhfpqg3v8y6.jpeg"
+    },
+    {
+      "prodId":5,
+      "prodName":"Collor T-shirt",
+      "prodPrice":400,
+      "prodCategory":"T-shirt",
+      "productImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/6/s/v/s-mt416-metronaut-original-imagmj8ndmbetfah.jpeg"
+    },
+    {
+      "prodId":6,
+      "prodName":"T-shirt",
+      "prodPrice":500,
+      "prodCategory":"T-shirt",
+      "productImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/b/0/v/l-tbgrrn-d45-tripr-original-imagza9znc7nhfhj.jpeg"
+    },
+    {
+      "prodId":7,
+      "prodName":"T-shirt",
+      "prodPrice":450,
+      "prodCategory":"T-shirt",
+      "productImage":"https://m.media-amazon.com/images/I/51zi-+aRReL._UX522_.jpg"
+    },
+    {
+      "prodId":8,
+      "prodName":"Grey Sports Shoes for Men's",
+      "prodPrice":1338,
+      "prodCategory":"Shoes",
+      "productImage":"https://m.media-amazon.com/images/I/61r5BP4NAFL._UY695_.jpg"
+    },
+    {
+      "prodId":9,
+      "prodName":"Formal Shoes for Men's",
+      "prodPrice":1299,
+      "prodCategory":"Shoes",
+      "productImage":"https://www.jiomart.com/images/product/original/rvplqqrocy/dunkaston-brown-formal-shoes-for-men-product-images-rvplqqrocy-0-202211021425.jpg"
+    },
+    {
+      "prodId":10,
+      "prodName":"Fastrack Analog Black Dial Men's Watch",
+      "prodPrice":2156,
+      "prodCategory":"Watch",
+      "productImage":"https://m.media-amazon.com/images/I/61prZ1NVwoL._UX466_.jpg"
+    }
+  ],
+  "women":[
+    {
+      "prodId":1,
+      "prodName":"T-shirt",
+      "prodPrice":400,
+      "prodCategory":"Cloths",
+      "productImage":"https://rukminim1.flixcart.com/image/832/832/xif0q/t-shirt/o/w/n/xl-3520-the-dry-state-original-imag6y43ssx5adkc-bb.jpeg"
+    },
+    {
+      "prodId":2,
+      "prodName":"Top",
+      "prodPrice":349,
+      "prodCategory":"Cloths",
+      "productImage":"https://m.media-amazon.com/images/I/61K7ugqp74L._UX679_.jpg"
+    },
+    {
+      "prodId":3,
+      "prodName":"xyz",
+      "prodPrice":450,
+      "prodCategory":"Cloths",
+      "productImage":"https://m.media-amazon.com/images/I/61WG5Gl3KbL._UY741_.jpg"
+    },
+    {
+      "prodId":4,
+      "prodName":"Top",
+      "prodPrice":599,
+      "prodCategory":"Cloths",
+      "productImage":"https://m.media-amazon.com/images/I/71547dscWFL._UX679_.jpg"
+    },
+    {
+      "prodId":5,
+      "prodName":"Cotton Kurti",
+      "prodPrice":400,
+      "prodCategory":"Cloths",
+      "productImage":"https://m.media-amazon.com/images/I/71-MKqH99ZL._UY741_.jpg"
+    },
+    {
+      "prodId":6,
+      "prodName":"Embroidered Kurta Set",
+      "prodPrice":500,
+      "prodCategory":"Cloths",
+      "productImage":"https://m.media-amazon.com/images/I/71WQ4XlEalL._SY741._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "prodId":7,
+      "prodName":"Heeled Sandal",
+      "prodPrice":500,
+      "prodCategory":"Heels",
+      "productImage":"https://m.media-amazon.com/images/I/61bZg5sWMPL._UY695_.jpg"
+    },
+    {
+      "prodId":8,
+      "prodName":"Synthetic Leather Kolhapuri Chappal",
+      "prodPrice":800,
+      "prodCategory":"Chappal",
+      "productImage":"https://m.media-amazon.com/images/I/61J96PigAiL._UY625_.jpg"
+    },
+    {
+      "prodId":9,
+      "prodName":"Formal heels",
+      "prodPrice":700,
+      "prodCategory":"Shoes",
+      "productImage":"https://m.media-amazon.com/images/I/51lxV2IetAL._UY575_.jpg"
+    },
+    {
+      "prodId":10,
+      "prodName":"Titan Neo Analog Grey Dial Women's Watch",
+      "prodPrice":2000,
+      "prodCategory":"Watch",
+      "productImage":"https://m.media-amazon.com/images/I/616LuWzn7bL._UY500_.jpg"
+    }
+  ],
+  "kid": [
+    {
+      "prodId":1,
+      "prodName":"Polyester Jumper Dress",
+      "prodPrice":679,
+      "prodCategory":"Dress",
+      "productImage":"https://m.media-amazon.com/images/I/51SVukImoYL._UY741_.jpg"
+    },
+    {
+      "prodId":2,
+      "prodName":"Dress",
+      "prodPrice":499,
+      "prodCategory":"Dress",
+      "productImage":"https://m.media-amazon.com/images/I/716qh0jP6+L._UY741_.jpg"
+    },
+    {
+      "prodId":3,
+      "prodName":"Girl Full Length Sequin Work Gown Dress",
+      "prodPrice":600,
+      "prodCategory":"Gown Dress",
+      "productImage":"https://m.media-amazon.com/images/I/51lYZa2YWaL._SX679._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "prodId":4,
+      "prodName":"T-shirt and Shorts for Baby Boy",
+      "prodPrice":599,
+      "prodCategory":"Dress",
+      "productImage":"https://m.media-amazon.com/images/I/512Fau61yGL._UX679_.jpg"
+    },
+    {
+      "prodId":5,
+      "prodName":"Cotton Embroidered Kurta Pant Set For Boys",
+      "prodPrice":1299,
+      "prodCategory":"Dress",
+      "productImage":"https://m.media-amazon.com/images/I/711tUsl2GyL._SX679._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "prodId":6,
+      "prodName":"Printed T-shirt With Shorts Sets of baby boys",
+      "prodPrice":500,
+      "prodCategory":"Dress",
+      "productImage":"https://m.media-amazon.com/images/I/51DShlKIvRL._UX679_.jpg"
+    },
+    {
+      "prodId":7,
+      "prodName":"Shoes for Boys & Girls",
+      "prodPrice":399,
+      "prodCategory":"Shoes",
+      "productImage":"https://m.media-amazon.com/images/I/61I1jr+A8hL._SY625._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "prodId":8,
+      "prodName":"Boys Flat Sandal",
+      "prodPrice":459,
+      "prodCategory":"Sandal",
+      "productImage":"https://m.media-amazon.com/images/I/71SlSXKa6HL._UX575_.jpg"
+    },
+    {
+      "prodId":9,
+      "prodName":"Girls Sandal",
+      "prodPrice":549,
+      "prodCategory":"Sandal",
+      "productImage":"https://m.media-amazon.com/images/I/61ehZq8ectL._UY500_.jpg"
+    },
+    {
+      "prodId":10,
+      "prodName":"LED Light Boots for Girls",
+      "prodPrice":1600,
+      "prodCategory":"Boots",
+      "productImage":"https://m.media-amazon.com/images/I/51s35Rwnm+L._UX500_.jpg"
+    },
+    {
+      "prodId":11,
+      "prodName":"LED Watch Combo of 2 for Boys and Girls",
+      "prodPrice":450,
+      "prodCategory":"Watch",
+      "productImage":"https://m.media-amazon.com/images/I/61A-HmaxELL._UX569_.jpg"
+    },
+    {
+      "prodId":12,
+      "prodName":"Boys Digital Watch",
+      "prodPrice":1799,
+      "prodCategory":"Watch",
+      "productImage":"https://m.media-amazon.com/images/I/61B5fPLtvyL._SX466._SX._UX._SY._UY_.jpg"
+    },
+    {
+      "prodId":13,
+      "prodName":"Watch for Girls",
+      "prodPrice":299,
+      "prodCategory":"Watch",
+      "productImage":"https://m.media-amazon.com/images/I/41LlTpIX-xL._UX385_.jpg"
+    }
+  ],
+  "laptop": [
+    {
+      "prodId":1,
+      "prodName":"Acer Aspire 5 Gaming Laptop Intel Core i5 12th gen",
+      "prodPrice":60990,
+      "prodCategory":"Laptop",
+      "productImage":"https://m.media-amazon.com/images/I/61cEbdSyBqL._SY450_.jpg"
+    },
+    {
+      "prodId":2,
+      "prodName":"Acer Predator Helios Neo 16 Gaming Laptop 13th Gen",
+      "prodPrice":129990,
+      "prodCategory":"Laptop",
+      "productImage":"https://m.media-amazon.com/images/I/81TVIF9Y9OL._SX679_.jpg"
+    },
+    {
+      "prodId":3,
+      "prodName":"Dell Inspiron 7420 2in1 Laptop,12th Gen",
+      "prodPrice":53990,
+      "prodCategory":"Laptop",
+      "productImage":"https://m.media-amazon.com/images/I/51PAEgWeqQL._SY450_.jpg"
+    },
+    {
+      "prodId":4,
+      "prodName":"Dell Vostro 3510 Laptop",
+      "prodPrice":52990,
+      "prodCategory":"Laptop",
+      "productImage":"https://m.media-amazon.com/images/I/51AIKnzIrfL._SX679_.jpg"
+    },
+    {
+      "prodId":5,
+      "prodName":"Hp Pavilion X360 11Th Gen",
+      "prodPrice":51800,
+      "prodCategory":"Laptop",
+      "productImage":"https://m.media-amazon.com/images/I/51VZIz+fngL._SX679_.jpg"
+    },
+    {
+      "prodId":6,
+      "prodName":"HP Victus Gaming Latest 12th Gen",
+      "prodPrice":79990,
+      "prodCategory":"Laptop",
+      "productImage":"https://m.media-amazon.com/images/I/61dyFdyOXbL._SX679_.jpg"
+    },
+    {
+      "prodId":7,
+      "prodName":"Lenovo IdeaPad Slim 3",
+      "prodPrice":54200,
+      "prodCategory":"Laptop",
+      "productImage":"https://m.media-amazon.com/images/I/710ObNICvjL._SX679_.jpg"
+    },
+    {
+      "prodId":8,
+      "prodName":"Lenovo Yoga Slim 7 Pro",
+      "prodPrice":69990,
+      "prodCategory":"Laptop",
+      "productImage":"https://m.media-amazon.com/images/I/61LFwxXs6zL._SX679_.jpg"
+    },
+    {
+      "prodId":9,
+      "prodName":"Apple-MacBook-Pro",
+      "prodPrice":349900,
+      "prodCategory":"Laptop",
+      "productImage":"https://www.apple.com/newsroom/images/product/mac/standard/Apple-MacBook-Pro-M2-Pro-and-M2-Max-hero-230117_Full-Bleed-Image.jpg.large.jpg"
+    },
+    {
+      "prodId":10,
+      "prodName":"MackBook Pro",
+      "prodPrice":350000,
+      "prodCategory":"Laptop",
+      "productImage":"https://images.pexels.com/photos/249538/pexels-photo-249538.jpeg"
+    }
+  ],
+  "mobile": [
+    {
+      "prodId":1,
+      "prodName":"Samsung Galaxy S23 Ultra",
+      "prodPrice":140000,
+      "prodCategory":"Mobile",
+      "productImage":"https://images.samsung.com/is/image/samsung/p6pim/uk/feature/164370272/uk-feature-galaxy-s-535141640?$FB_TYPE_I_JPG"
+    },
+    {
+      "prodId":2,
+      "prodName":"Samsung Galaxy Z-flip 3",
+      "prodPrice":69999,
+      "prodCategory":"Mobile",
+      "productImage":"https://m.media-amazon.com/images/I/71ovOtjBFOL._SX679_.jpg"
+    },
+    {
+      "prodId":3,
+      "prodName":"OnePlus Nord CE 2 Lite 5G",
+      "prodPrice":18999,
+      "prodCategory":"Mobile",
+      "productImage":"https://m.media-amazon.com/images/I/71AvQd3VzqL._SX679_.jpg"
+    },
+    {
+      "prodId":4,
+      "prodName":"OnePlus Nord CE 3 Lite 5G",
+      "prodPrice":19999,
+      "prodCategory":"Mobile",
+      "productImage":"https://m.media-amazon.com/images/I/61LB+d0vheL._SX679_.jpg"
+    },
+    {
+      "prodId":5,
+      "prodName":"OnePlus 11 5G ",
+      "prodPrice":61999,
+      "prodCategory":"Mobile",
+      "productImage":"https://m.media-amazon.com/images/I/61amb0CfMGL._SX679_.jpg"
+    },
+    {
+      "prodId":6,
+      "prodName":"Redmi K50i 5G",
+      "prodPrice":20999,
+      "prodCategory":"Mobile",
+      "productImage":"https://m.media-amazon.com/images/I/71ZACtD0-oL._SX679_.jpg"
+    },
+    {
+      "prodId":7,
+      "prodName":"Vivo Y56 5G",
+      "prodPrice":19999,
+      "prodCategory":"Mobile",
+      "productImage":"https://m.media-amazon.com/images/I/61y7ZbTQcWL._SX679_.jpg"
+    },
+    {
+      "prodId":8,
+      "prodName":"Vivo Y100 5G",
+      "prodPrice":23999,
+      "prodCategory":"Mobile",
+      "productImage":"https://m.media-amazon.com/images/I/61rE3vcRsUL._SX679_.jpg"
+    },
+    {
+      "prodId":9,
+      "prodName":"Apple iPhone 14 Pro Max",
+      "prodPrice":127999,
+      "prodCategory":"Mobile",
+      "productImage":"https://cdn.mos.cms.futurecdn.net/cJxiuroHXWuAAMB3K82XMN.jpg"
+    },
+    {
+      "prodId":10,
+      "prodName":"Apple iPhone 13",
+      "prodPrice":61999,
+      "prodCategory":"Mobile",
+      "productImage":"https://m.media-amazon.com/images/I/61cecOpZrxL._SX679_.jpg"
+    }
+  ]
+}

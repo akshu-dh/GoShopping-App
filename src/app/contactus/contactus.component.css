@@ -1,0 +1,10 @@
+.main-div{
+    background-image: linear-gradient(to right, rgba(95, 56, 56, 0.288) , rgba(153, 91, 91, 0.288));
+    height: 90%;
+    text-align: center;
+}
+img{
+    width: 700px;
+    height: 350px;
+    margin-top: 8%;
+}
