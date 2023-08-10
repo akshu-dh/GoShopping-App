@@ -26,6 +26,7 @@ import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './register/register.component';
 import { LogoutComponent } from './logout/logout.component';
 import { ContactusComponent } from './contactus/contactus.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 @NgModule({
@@ -41,7 +42,8 @@ import { ContactusComponent } from './contactus/contactus.component';
     LoginComponent,
     RegisterComponent,
     LogoutComponent,
-    ContactusComponent
+    ContactusComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
